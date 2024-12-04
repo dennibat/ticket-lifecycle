@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 <p>
-On the Support Center Support Ticket System web page, click "Open a New Ticket" to get started.
+On the Support Center’s Support Ticket System web page, begin by clicking 'Open a New Ticket' to initiate the process.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ On the Support Center Support Ticket System web page, click "Open a New Ticket" 
 <img src="https://i.imgur.com/SR8YKk6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After opening a new ticket, you'll see Contact Information, Help Topic, and Ticket Details. This is where end users will fill out their information on what they need help with. For this example, we will be Jane Doe, and we need a password reset because we forgot it.
+Once a new ticket is created, you’ll see sections for Contact Information, Help Topic, and Ticket Details. This is where end users provide the necessary information about their issue. For this example, let’s take on the role of Karen Blaese, reporting a widespread issue where users across the nation are unable to log into the mobile app.
 </p>
 <br />
 
@@ -49,7 +49,7 @@ After opening a new ticket, you'll see Contact Information, Help Topic, and Tick
 <img src="https://i.imgur.com/eJfWzIu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-When we submitted our ticket for a password reset, this is what the Support Desk Technician sees. As you can probably tell, the information we provided as Jane is here. 
+After submitting the ticket regarding the mobile app lockout, this is what the Support Desk Technician sees. All the details Karen provided are displayed clearly, ensuring the technician has the information needed to start troubleshooting.
 </p>
 <br />
 
@@ -61,7 +61,7 @@ When we submitted our ticket for a password reset, this is what the Support Desk
 <img src="https://i.imgur.com/R1Q52Hc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here you can see all the changes that were made to Jane's ticket. John assigned it to himself, changed the SLA, and altered the priority level of the ticket. After making all those changes, John responds to Jane to let her know that her password will be reset soon.
+Here, you can observe the updates made to Karen’s ticket. John, the technician, assigned the ticket to himself, adjusted the SLA, and modified the ticket's priority level to ensure the issue receives prompt attention. He then responds to Karen, reassuring her that the team is actively working to resolve the mobile app issue.
 </p>
 <br />
 
@@ -69,6 +69,6 @@ Here you can see all the changes that were made to Jane's ticket. John assigned 
 <img src="https://i.imgur.com/1fiotHb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Finally, after successfully resetting Jane's password John reaches back out to let Jane know and closes the ticket. 
+Finally, after successfully restoring access to the mobile app, John closes the ticket, marking the issue as resolved 
 </p>
 <br />
